@@ -1,0 +1,13 @@
+"","sex","varname","cutoff.L.mu","cutoff.U.mu"
+"1","Female","heightcm",150,175.26
+"2","Female","bmi",19.4817327366469,40.3633337680876
+"3","Female","alcohol",NA,28.5714285714286
+"4","Female","smk_pkyr",NA,37.3768748266158
+"5","Female","redmeat",NA,1.00039162399378
+"6","Female","fruit",NA,5.75233333333333
+"7","Male","heightcm",162,190.5
+"8","Male","bmi",20.8404527279875,37.9992805639875
+"9","Male","alcohol",NA,62.8571428571429
+"10","Male","smk_pkyr",NA,56.20007347811
+"11","Male","redmeat",NA,1.63979061666759
+"12","Male","fruit",NA,5.50166666666667
